@@ -20,12 +20,8 @@ Our application Gluten Free Finder is a service connecting restaurants and custo
  
 The Gluten Free Finder is aimed to provide ease and convenience to its users by increasing their food safety. This application aims to give its users peace of mind that all restaurants on the website are carefully checked and approved by the Gluten Free Finder to provide its users with the most accurate information. This will be achieved with a highly secure dashboard managed by our moderator, who can approve the restaurant recommended to the app, including any Gluten free certificates directly from the restaurant. In addition, we have a secure login for any restaurant recommending their place to be posted.
  
-<<<<<<< HEAD
 Whilst other competitors provide a search application for finding food nearby, none specialise in the topic of gluten-free meals. We all feel better about ourselves when we know that we are helping others and when we can see our help in action with real people. Therefore the restaurants will not only gain more customers, but they will know that they are making a difference in this community. With growing popularity, it may even encourage more restaurants to offer a Gluten Free menu.
 
-=======
-Whilst other competitors provide a search application for finding food nearby, none specialise in the topic of gluten-free meals. We all feel better about ourselves when we know that we are helping others and when we can see our help in action with real people. Therefore the restaurants will not only gain more customers, but they will know that they are making a difference in this community. With growing popularity, it may even encourage more restaurants to offer a Gluten Free menu.  
->>>>>>> 30aaaab0192c0922c1c450ac484a969f4624e199
 ---
 
 ### Functionality/Features
@@ -47,12 +43,8 @@ Restaurant and site admin will login via the same screen. When a restaurant user
 - View submission status 
 
 
-<<<<<<< HEAD
 **Site Admin (Moderator)**
 
-=======
-**Site Admin (Moderator)** 
->>>>>>> 30aaaab0192c0922c1c450ac484a969f4624e199
 A site admins account cannot be created via the sign up screen and can only be assigned by the developers. When a site admin logs in they will see a dedicated dashboard that displays all pending, approved and denied submissions, from there they can view the post and either approve or deny. We also plan to implement a filter on the dashboard that allows them to filter by submission status. 
 - Sign up/Sign in
 - Dashboard overview
@@ -171,8 +163,8 @@ Restaurant User refers to the application consumer who uses the website by submi
 
 - As a moderator who wants to provide a trusted service to Gluten Free Intolerant people, I would like to review each submitted form so I can see what forms have been submitted by Restaurant users and approve or deny them to become posts on the Gluten Free Finder. This way my users will trust the service we are providing because they won’t be getting unwell at the restaurants.  
  
-<<<<<<< HEAD
-13. Other user stories discovered through market research
+
+13.  Other user stories discovered through market research
 
 - As someone who is debilitated by gluten, I will use a monitored site so I can implace my trust in the approved restaurants and eat and sleep knowing I won't get ill from these restaurant. I will then be a continious user who will recommend the Gluten Free Finder to friends and family. 
    
@@ -186,15 +178,6 @@ Restaurant User refers to the application consumer who uses the website by submi
   
 - As an anxious user who likes control over their own details, I want to be able to remove my account so I can reduce my information stored in the website if I no longer want an active account.
   
-=======
- 
-As someone who is debilitated by gluten, I will eat and sleep better knowing my restaurant adventures are monitored and the restaurants approved won’t cause me to be unwell. (so I can……)
-As an admin user, I would like to create a restaurant post so that visitor can view the restaurant post
-As an admin user, I would like to delete submitted forms once they've been denied so I can move onto the next form to review
-As an admin user, I would like to approve or deny submitted forms for new Restaurant posts.
-As a user I want to be able to edit my profile to change my details, so that I have relevant personal information? - if it’s just email and password, maybe not needed.
-As a user I want to be able to remove my account so there will be no copy of information stored in the website if I no longer want my account 
->>>>>>> 30aaaab0192c0922c1c450ac484a969f4624e199
 ---
 
 ## Wireframes

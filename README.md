@@ -20,7 +20,7 @@ Our application Gluten Free Finder is a service connecting restaurants and custo
  
 The Gluten Free Finder is aimed to provide ease and convenience to its users by increasing their food safety. This application aims to give its users peace of mind that all restaurants on the website are carefully checked and approved by the Gluten Free Finder to provide its users with the most accurate information. This will be achieved with a highly secure dashboard managed by our moderator, who can approve the restaurant recommended to the app, including any Gluten free certificates directly from the restaurant. In addition, we have a secure login for any restaurant recommending their place to be posted.
  
-Whilst other competitors provide a search application for finding food nearby, none specialise in the topic of gluten-free meals. We all feel better about ourselves when we know that we are helping others and when we can see our help in action with real people. Therefore the restaurants will not only gain more customers, but they will know that they are making a difference in this community. With growing popularity, it may even encourage more restaurants to offer a Gluten Free menu. 
+Whilst other competitors provide a search application for finding food nearby, none specialise in the topic of gluten-free meals. We all feel better about ourselves when we know that we are helping others and when we can see our help in action with real people. Therefore the restaurants will not only gain more customers, but they will know that they are making a difference in this community. With growing popularity, it may even encourage more restaurants to offer a Gluten Free menu.  
 ---
 
 ### Functionality/Features
@@ -40,7 +40,7 @@ Upload supporting documents and images
 View submission status 
 
 
-**Site Admin (Moderator)**
+**Site Admin (Moderator)** 
 A site admins account cannot be created via the sign up screen and can only be assigned by the developers. When a site admin logs in they will see a dedicated dashboard that displays all pending, approved and denied submissions, from there they can view the post and either approve or deny. We also plan to implement a filter on the dashboard that allows them to filter by submission status. 
 Sign up/Sign in
 Dashboard overview
@@ -49,7 +49,7 @@ Create submissions
 Filter by submission status 
 ---
 
-### Target Audience 
+### Target Audience  
 This app is aimed at anyone around the world with or who has a friend or family member with Coeliac disease or an intolerance to Gluten. It aims to provide a trusted service for these people to locate a Gluten Free Restaurant. It strives to reduce the stress of eating with an allergy whilst providing them with a restaurant nearby that may fill their cuisine cravings. 
 ---
 
@@ -141,7 +141,7 @@ As an admin user, I would like to create a restaurant post so that visitor can v
 As an admin user, I would like to delete submitted forms once they've been denied so I can move onto the next form to review
 As an admin user, I would like to approve or deny submitted forms for new Restaurant posts.
 As a user I want to be able to edit my profile to change my details, so that I have relevant personal information? - if it’s just email and password, maybe not needed.
-As a user I want to be able to remove my account so there will be no copy of information stored in the website if I no longer want my account
+As a user I want to be able to remove my account so there will be no copy of information stored in the website if I no longer want my account 
 ---
 
 ## Wireframes

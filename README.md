@@ -78,11 +78,15 @@ This app is aimed at anyone around the world with or who has a friend or family 
 ---
 
 ### Dataflow Diagram
-![Dataflow-Diagram](/img/DataFlowOfficial.png)
+
+![Dataflow-Diagram](./img/DataFlowOfficial.png)
+
 ---
 
 ### Application Architecture
-![Application-Architecture](/img/ArchitectureDiagramOfficial.png)
+
+![Application-Architecture](./img/ArchitectureDiagramOfficial.png)
+
 ---
 
 ### User Stories
@@ -184,21 +188,33 @@ Restaurant User refers to the application consumer who uses the website by submi
 
 Wireframes can also be viewed on figma here: [Figma](https://www.figma.com/file/VObp0Nb4gK80DbtwUmfhKV/Gluten-Free-Finder?node-id=31%3A2)
 
-![Dash-Home](/img/wireframes/View-Restaurants.png)
-![Dash-Search](/img/wireframes/Search-Filters.png)
-![Dash-Signup](/img/wireframes/Sign-Up.png)
-![Dash-Signup-Error](/img/wireframes/Sign-Up-Error.png)
-![Dash-New-Post](/img/wireframes/New-Post-Button.png)
-![Dash-Card-View](/img/wireframes/Card-View.png)
-![Dash-Sign-In](/img/wireframes/Sign-in.png)
-![Dash-Admin](/img/wireframes/Admin-Dashboard.png)
-![Dash-Admin-Card](/img/wireframes/Admin-Card-View.png)
+![Dash-Home](./img/wireframes/View-Restaurants.png)
+
+![Dash-Search](./img/wireframes/Search-Filters.png)
+
+![Dash-Signup](./img/wireframes/Sign-Up.png)
+
+![Dash-Signup-Error](./img/wireframes/Sign-Up-Error.png)
+
+![Dash-New-Post](./img/wireframes/New-Post-Button.png)
+
+![Dash-Card-View](./img/wireframes/Card-View.png)
+
+![Dash-Sign-In](./img/wireframes/Sign-in.png)
+
+![Dash-Admin](./img/wireframes/Admin-Dashboard.png)
+
+![Dash-Admin-Card](./img/wireframes/Admin-Card-View.png)
+
 
 **Mobile view:**
 
-![Mob-Home](/img/wireframes/Mobile-Home.png)
-![Mob-Card](/img/wireframes/Mobile-Card.png)
-![Mob-Sign-Up](/img/wireframes/Mobile-Sign-Up.png)
+![Mob-Home](./img/wireframes/Mobile-Home.png)
+
+![Mob-Card](./img/wireframes/Mobile-Card.png)
+
+![Mob-Sign-Up](./img/wireframes/Mobile-Sign-Up.png)
+
 ---
 
 ## Project Management
@@ -215,5 +231,7 @@ The project managment tool we've used to track our progress for this assesment i
 9. **Questions** Similar to our discuss column however we added this board to help us visually.
 10. **Resources** Any resources we want to keep during our development process. For quick reference.
 
- ![Trello-Board-1](/img/trello-1.png)
- ![Trello-Board-2](/img/trello-2.png)
+ ![Trello-Board-1](./img/trello-1.png)
+
+ ![Trello-Board-2](./img/trello-2.png)
+ 
